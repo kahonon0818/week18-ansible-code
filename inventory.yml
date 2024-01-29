@@ -16,6 +16,6 @@ ansible_user= ec2-user
 
 [wind:vars]
 ansible_user=Administrator
-ansible_password='Rz96fierJW*r5iSWfE6CKGv2XUk%h7bt'
+ansible_password=''
 ansible_connection=ssh
 ansible_shell_type=cmd
